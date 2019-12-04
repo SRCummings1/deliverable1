@@ -1,0 +1,2 @@
+C:\Users\Sean\source\repos\Deliverable1\Deliverable1\obj\Debug\Deliverable1.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Deliverable1\Deliverable1\obj\Debug\Deliverable1.csproj.CoreCompileInputs.cache
